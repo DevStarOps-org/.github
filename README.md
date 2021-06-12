@@ -1,6 +1,10 @@
-# Just another Demo Repo
+# .github
 
-This repo is 1 of the demos repo's that [Gordon Beeming](https://beeming.dev/) has most likely created.
+Community health files for the @GitHub organization
+
+For more information, please see the article on [creating a default community health file for your organization](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
+
+
 
 For my primary account check out [@Gordon-Beeming](https://github.com/Gordon-Beeming)
 
